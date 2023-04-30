@@ -1,0 +1,12 @@
+{
+  "name": "lista-de-compras-projeto-base",
+  "version": "1.0.0",
+  "description": "Neste arquivo encontram-se modelos de códigos que serão utilizados no decorrer do curso.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
